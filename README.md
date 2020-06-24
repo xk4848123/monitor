@@ -38,5 +38,9 @@ https://github.com/ystcode/JavaMonitor
 请求heap、thread api时程序是讲堆栈信息通过命令保存到本地文件存储（存储于项目路径下的dump目录下，需保证启动程序用户具有该项目目录的修改权限），然后引导浏览器下载
 Spring boot中开启@EnableScheduling可定时清理dump目录文件（目前该程序是每小时执行一次）
 
+## 您可能还需要一个monitor-server
+中心monitor-server收集所有monitor客户端数据作可视化
+git地址 [https://github.com/xk4848123/monitor-server](https://github.com/xk4848123/monitor-server)
+
 
 
