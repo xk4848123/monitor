@@ -16,7 +16,7 @@ https://github.com/ystcode/JavaMonitor
             <artifactId>monitor-spring-boot-starter</artifactId>
             <version>2.3.1</version>
      </dependency>
-     maven仓库发布中.....   
+     maven仓库发布中..... 目前可以在release中下载jar包自行 mvn install
 ## spring boot 配置
 >+ 若配置文件为 application.properties
 >+ monitor.path=monitor（决定访问路径,可以自行定义）
