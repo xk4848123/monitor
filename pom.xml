@@ -17,7 +17,7 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-autoconfigure</artifactId>
-      <version>2.3.1.RELEASE</version>
+      <version>2.5.15</version>
     </dependency>
     <!--非必需,该依赖作用是在使用IDEA编写配置文件有代码提示-->
     <dependency>
